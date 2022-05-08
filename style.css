@@ -1,4 +1,4 @@
-*{
+n *{
     margin: 0;
     padding: ;
 }
@@ -106,7 +106,7 @@ nav ul li a{
     overflow: hidden;
     margin: 0;
     margin-left: 50px;
-
+border-radius: 20px 40px;
 }
 .border-btn {
     border: 1px solid #e3c6c6;
