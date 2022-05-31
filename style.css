@@ -137,3 +137,16 @@ body {
 .part{
     padding-top: 75px;
 }
+footer{
+    padding:1% 10% ;
+    background: #056676;
+    margin-left: 125px;
+    margin-right: 125px;
+}
+footer a{
+    color: white;
+    margin: 0 10px;
+}
+footer a:hover{
+    color: black;
+}
